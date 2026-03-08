@@ -25,7 +25,7 @@ Neuro Symbolic AI기반 Dark Pattern Detection 서비스 [📌 web repo](https:/
 
 
 # 사이드 프로젝트
-SW / HW 재료비 지원을 위한 사이드 프로젝트 [📌 kiosk repo](https://github.com/404DNF/kiosk)
+SW / HW 재료비 지원 - 사이드 프로젝트 [📌 kiosk repo](https://github.com/404DNF/kiosk)
 
 25 ICROS 학술대회 학부생 논문 게재
 
@@ -45,5 +45,5 @@ SW / HW 재료비 지원을 위한 사이드 프로젝트 [📌 kiosk repo](http
 
 
 # 논문 확장
- [📌 paper repo](https://github.com/404DNF/paper)
+ [📌 paper repo](https://github.com/404DNF/darkpattern-baselines)
 
